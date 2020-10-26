@@ -1,2 +1,6 @@
 # hello-world
-Test repository
+
+
+Hi,
+
+im Oleh and i'm testing my first github project
